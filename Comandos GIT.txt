@@ -1,0 +1,34 @@
+git init
+//--> inicio de repositorio
+
+
+git add .
+//--> escaneo de archivos a subir
+
+
+git commit -m "comentario"
+//--> comentario relacionado a la subida
+
+
+git push
+//--> sube archivos al repositorio
+
+
+git push --force
+//--> obliga la carga de archivos al repositorio
+
+
+git log 
+//-> ver commits e informacion de estos
+
+
+git remote -v
+//-> ver repositorios
+
+
+heroku logs -n 1000 --tail
+//-> muestra los consol.log de la aplicacion 
+
+
+git status
+//--> muestra el estado actual

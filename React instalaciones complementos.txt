@@ -1,0 +1,95 @@
+  |||--NPM---|||  |
+__________________|
+
+React Router || rutas
+
+npm install react-router-dom
+
+*************************************************
+
+react-modal || ventana modal para react
+
+npm i react-modal
+
+*************************************************
+
+moment || Manejador de tiempo
+
+npm i moment
+
+*************************************************
+
+react-datetime-picker || permite seleccionar datos de tiempo
+
+npm i react-datetime-picker
+
+***************************************************
+
+sweetalert2 || alertas con mas estilos
+
+npm install sweetalert2
+
+****************************************************
+
+Redux || base manejador de estado
+
+npm i redux
+
+****************************************************
+
+React Redux || manejador de estados para react
+
+npm install react-redux
+
+****************************************************
+
+redux-thunk || middleware
+
+npm i redux-thunk
+
+******************************************************
+
+Enzyme
+
+npm i --save-dev enzyme enzyme-adapter-react-16
+
+
+******************************************************
+
+enzyme adapter react 17
+
+npm install --save-dev @wojtekmaj/enzyme-adapter-react-17
+
+
+*********************************************************
+
+enzyme to json
+
+
+npm install --save-dev enzyme-to-json
+
+
+**********************************************************
+
+redux-mock-store
+
+
+npm install redux-mock-store --save-dev
+
+
+***********************************************************
+
+--------------------------------------------------------------
+--------------------------------------------------------------
+--------------------------------------------------------------
+________________________
+                        |
+ |||--Complementos--||| |
+________________________|
+
+font-awesome | Iconografia
+
+https://cdnjs.com/libraries/font-awesome
+href = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+
+*************************************************

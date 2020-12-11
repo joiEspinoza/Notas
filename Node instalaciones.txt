@@ -1,0 +1,61 @@
+
+NODEMON
+
+npm i nodemon -g
+
+( ejecutar como administrador )
+
+
+*********************************************************
+
+EXPRESS
+
+npm i express
+
+
+*********************************************************
+
+DOTENV
+
+npm i dotenv
+
+( se utiliza para que NODE pueda trabajar con variables de entorno )
+
+
+******************************************************************
+
+EXPRESS VALIDATOR
+
+npm i express-validator
+
+******************************************************************
+
+mongoose || https://mongoosejs.com/
+
+npm i mongoose
+
+********************************************************************
+
+bcryptjs || encriptador
+
+npm i bcryptjs
+
+**********************************************************************
+
+JSON Web Token
+
+npm i jsonwebtoken
+
+*********************************************************************
+
+CORS || seguridad
+
+npm install cors
+
+***********************************************************************
+
+HTTP Status Codes 
+
+https://www.restapitutorial.com/httpstatuscodes.html
+
+************************************************************************
