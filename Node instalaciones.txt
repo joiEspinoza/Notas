@@ -1,4 +1,11 @@
 
+package.json
+
+npm init -y
+
+
+*****************************************************
+
 NODEMON
 
 npm i nodemon -g
@@ -18,6 +25,8 @@ npm i express
 DOTENV
 
 npm i dotenv
+
+require('dotenv').config()
 
 ( se utiliza para que NODE pueda trabajar con variables de entorno )
 

@@ -92,4 +92,6 @@ font-awesome | Iconografia
 https://cdnjs.com/libraries/font-awesome
 href = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
 
+https://fontawesome.com/v4.7.0/icons/
+
 *************************************************
