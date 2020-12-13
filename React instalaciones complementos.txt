@@ -27,7 +27,7 @@ npm i react-datetime-picker
 
 sweetalert2 || alertas con mas estilos
 
-npm install sweetalert2
+npm install --save sweetalert2
 
 ****************************************************
 
