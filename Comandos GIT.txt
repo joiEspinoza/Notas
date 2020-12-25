@@ -2,7 +2,7 @@ git init
 //--> inicio de repositorio
 
 
-git add .
+git add . || git add index.js
 //--> escaneo de archivos a subir
 
 
@@ -26,9 +26,43 @@ git remote -v
 //-> ver repositorios
 
 
-heroku logs -n 1000 --tail
-//-> muestra los consol.log de la aplicacion 
-
-
 git status
 //--> muestra el estado actual
+
+
+git checkout -- index.js
+//--> elimina los cambios realizados al archivo
+
+
+git diff index.js
+//--> muestra los cambios en el archivo
+
+
+.gitignore
+
+archivo.js
+carpera
+////---> archivo para ignorar elementos del proyecto
+
+
+git branch nuevaRama
+///---> creacion de un nuevo branch |||RAMA|||
+
+
+git checkout nuevaRama
+////----> cambio a nuevaRama
+
+--------------------------------------------------------------------------
+VIM
+
+esc + :q
+//--> Salir de VIM
+
+
+i "comentario" || esc + :wq
+///---> Crear comentario en Vim
+
+-------------------------------------------------------------------------
+
+heroku logs -n 1000 --tail
+//-> muestra los consol.log de la aplicacion 
