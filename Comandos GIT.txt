@@ -52,6 +52,11 @@ git branch nuevaRama
 git checkout nuevaRama
 ////----> cambio a nuevaRama
 
+
+git checkout master
+git merge dev
+///----> combinacion ramas
+
 --------------------------------------------------------------------------
 VIM
 
