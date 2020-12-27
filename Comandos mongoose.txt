@@ -1,0 +1,30 @@
+
+User.findOne( { email } )
+//---> Busca usuario con ese email en especifico
+
+
+
+user.save()
+//---> guarda al usuario en DB
+
+
+
+
+Post.find().populate( "user", ( "_id","name" )
+//---> obtine todos los post y recoje datos del user que creo la accion
+
+
+
+
+Post.findByIdAndUpdate( id, { likePost : newLikePost }, { new : true } );
+//--> encuentra por id y actualiza el fragmento del objeto en DB
+      "new : true" devuelve el objeto actualizado	
+
+
+
+
+Post.findByIdAndDelete( postId )
+//--> encuentras por id y elimina
+
+
+
