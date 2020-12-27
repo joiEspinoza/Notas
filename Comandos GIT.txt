@@ -10,12 +10,28 @@ git commit -m "comentario"
 //--> comentario relacionado a la subida
 
 
+git remote add origin <url>
+///--> direccion del repositorio
+
+
+git push -u origin [rama]
+//--> primero push
+
+
 git push
 //--> sube archivos al repositorio
 
 
 git push --force
 //--> obliga la carga de archivos al repositorio
+
+
+git clone <url> [directorio]
+//--> clona la rama principal del repositorio
+
+
+$ git clone --branch [rama] <url> [directorio]
+//--> clonar una rama en especifico y crear el directorio
 
 
 git log 
