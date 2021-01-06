@@ -73,6 +73,9 @@ git checkout master
 git merge dev
 ///----> combinacion ramas
 
+
+git commit --amend
+///-----> modifica el ultimo comentario
 --------------------------------------------------------------------------
 VIM
 
