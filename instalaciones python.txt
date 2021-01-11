@@ -1,0 +1,10 @@
+Flask
+pip install Flask
+
+###################################
+
+MySQL
+pip install Flask-MySQLdb
+
+##################################
+
