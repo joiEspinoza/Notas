@@ -94,4 +94,9 @@ href = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.c
 
 https://fontawesome.com/v4.7.0/icons/
 
+------------------------------------------------------------------
+
+https://fontawesome.com/icons?d=gallery
+<script src="https://kit.fontawesome.com/85bca44503.js" crossorigin="anonymous"></script>
+
 *************************************************
