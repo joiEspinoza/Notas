@@ -7,4 +7,17 @@ MySQL
 pip install Flask-MySQLdb
 
 ##################################
+---------------------------------
 
+virtual env
+pip install virtualenv
+
+#################################
+
+python-mongo
+pip install Flask-PyMongo
+
+################################
+
+cors
+pip install flask-cors

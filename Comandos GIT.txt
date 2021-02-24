@@ -76,6 +76,14 @@ git merge dev
 
 git commit --amend
 ///-----> modifica el ultimo comentario
+
+
+git push origin :<nombre-antiguo> <nuevo-nombre>
+///------> Cambiar nombre de rama
+
+
+git push origin --delete <nombre_rama>
+///------> eliminar rama
 --------------------------------------------------------------------------
 VIM
 
