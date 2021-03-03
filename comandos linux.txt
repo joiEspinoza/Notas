@@ -1,0 +1,25 @@
+
+docker logs -f 904261f706fd || seguir docker
+
+ls -a || archivos
+
+
+docker ps || muestra info sobre dockers
+
+cd ~ || cd a root.
+
+
+mnt/c/Users/King || cambio directorio
+
+
+rm .ssh || remueve direc
+
+
+chmod 700 ~/.ssh || cambia permisos
+
+
+mkdir ~/.ssh || crea directorio
+
+
+ssh -i ec2test_key.pem ec2-user@ec2-3-140-229-47.us-east-2.compute.amazonaws.com
+|| origen AWS
